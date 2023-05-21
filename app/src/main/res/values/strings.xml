@@ -1,3 +1,22 @@
 <resources>
     <string name="app_name">To Do List</string>
+    <string name="save_task">Save Task</string>
+    <string name="set_time">Set Time</string>
+    <string name="set_date">Set Date</string>
+    <string name="set_reminder_date_and_time">Set reminder date and time</string>
+    <string name="enter_your_task">Enter your Task</string>
+    <string name="what_is_to_be_done">What is to be done?</string>
+    <string name="enter_task_title">Enter Task title</string>
+    <string name="task_title">Task Title</string>
+    <string name="date">Date</string>
+    <string name="time">Time</string>
+    <string name="submit">Submit</string>
+    <string name="enter_verification_code">Enter Verification Code</string>
+    <string name="verification_code">Verification Code</string>
+    <string name="verify">Verify</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="enter_phone_number">Enter Phone Number</string>
+    <string name="history">History</string>
+    <string name="logout">Logout</string>
+    <string name="search">Search</string>
 </resources>
